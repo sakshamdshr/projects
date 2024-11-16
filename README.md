@@ -1,2 +1,2 @@
 # projects
-Portfolio
+Code portfolio for job applications
